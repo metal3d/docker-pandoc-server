@@ -1,0 +1,3 @@
+[submodule "pandoc-server"]
+	path = pandoc-server
+	url = git@github.com:metal3d/pandoc-server.git
